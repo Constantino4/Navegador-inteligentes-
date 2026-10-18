@@ -1,0 +1,6 @@
+{
+  "name": "Morph AI Browser",
+  "description": "Navegador Web inteligente com visualização em tempo real, execução de pesquisas e extração seletiva de informação relevante.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

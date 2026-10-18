@@ -1,0 +1,6 @@
+{
+  "summary": "Plan to transition the mapping and business discovery system to an independent OpenStreetMap + Leaflet architecture that requires zero external API keys and completely removes all references to Google Maps from the frontend.",
+  "updatedAt": "2026-10-14T08:23:22.385754377Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
